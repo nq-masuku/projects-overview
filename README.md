@@ -80,14 +80,13 @@
        
     </tr>
     
-     <tr>
+  
         <td><img src="github-catalog/quiz/Screenshot_11.png" width="160" /></td>
         <td><img src="github-catalog/quiz/Screenshot_12.png" width="160" /></td>
         <td><img src="github-catalog/quiz/Screenshot_13.png" width="160" /></td>
         <td><img src="github-catalog/quiz/Screenshot_14.png" width="160" /></td>
         <td><img src="github-catalog/quiz/Screenshot_15.png" width="160" /></td>
-       
-    </tr>
+  
    </table>
 </p>
 
