@@ -151,7 +151,7 @@
         <td><img src="github-catalog/library/screenshot8.PNG" width="250" /></td>
     </tr>
     <tr>
-        <td colspan="3"><img src="github-catalog/banking/diagram.png" width="300" /></td>
+        <td colspan="3"><img src="github-catalog/library/diagram.png" width="300" /></td>
     </tr>
    </table>
 </p>
