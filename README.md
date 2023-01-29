@@ -140,9 +140,9 @@
 <table border="0">
     <tr>
         <td><img src="github-catalog/library/screenshot1.PNG" width="250" /></td>
-        <td><img src="github-catalog/library/screenshot2.PNG" width="250" /></td>
         <td><img src="github-catalog/library/screenshot3.PNG" width="250" /></td>
         <td><img src="github-catalog/library/screenshot4.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot2.PNG" width="250" /></td>
     </tr>
     <tr>
         <td><img src="github-catalog/library/screenshot5.PNG" width="250" /></td>
