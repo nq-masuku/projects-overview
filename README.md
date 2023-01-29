@@ -145,8 +145,8 @@
         <td><img src="github-catalog/banking/screenshot4.PNG" width="250" /></td>
     </tr>
     <tr>
-        <td><img src="github-catalog/banking/screenshot1.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot2.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot5.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot6.PNG" width="250" /></td>
         <td><img src="github-catalog/banking/screenshot3.PNG" width="250" /></td>
         <td><img src="github-catalog/banking/screenshot4.PNG" width="250" /></td>
     </tr>
