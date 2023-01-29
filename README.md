@@ -30,23 +30,23 @@
         <td><img src="github-catalog/cv/Screenshot_5.png" width="160" /></td>
     </tr>
     <tr>
-        <td><img src="screenshots/Screenshot_6.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_7.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_8.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_9.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_10.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_6.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_7.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_8.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_9.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_10.png" width="160" /></td>
     </tr>
       <tr>
-        <td><img src="screenshots/Screenshot_11.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_12.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_13.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_14.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_15.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_11.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_12.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_13.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_14.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_15.png" width="160" /></td>
     </tr>
      <tr>
-        <td><img src="screenshots/Screenshot_16.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_17.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_18.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_16.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_17.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_18.png" width="160" /></td>
     </tr>
 </table>
 </p>
