@@ -139,16 +139,16 @@
 
 <table border="0">
     <tr>
-        <td><img src="github-catalog/banking/screenshot1.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot2.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot3.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot4.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot1.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot2.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot3.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot4.PNG" width="250" /></td>
     </tr>
     <tr>
-        <td><img src="github-catalog/banking/screenshot5.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot6.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot7.PNG" width="250" /></td>
-        <td><img src="github-catalog/banking/screenshot8.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot5.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot6.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot7.PNG" width="250" /></td>
+        <td><img src="github-catalog/library/screenshot8.PNG" width="250" /></td>
     </tr>
     <tr>
         <td colspan="3"><img src="github-catalog/banking/diagram.png" width="300" /></td>
