@@ -120,8 +120,40 @@
         <td colspan="3"><br>Architecture diagram</td>
     </tr>
     <tr>
-        <td colspan="3"><img src="github-catalog/banking/Architecture.png" width="100" /></td>
+        <td colspan="3"><img src="github-catalog/banking/Architecture.png" width="300" /></td>
     </tr>
    </table>
 </p>
+
+<br>
+<hr/>
+<h2>Library Management Application - <a href="https://github.com/nq-masuku/library-management-system">Project Link</a></h2>
+<p align="center">
+<table border="0">
+    <tr>
+        <span>
+        Explanation
+        </span>
+    </tr>
+</table>
+
+<table border="0">
+      <tr>
+        <td><img src="github-catalog/banking/screenshot1.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot2.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot3.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot4.PNG" width="250" /></td>
+    </tr>
+    <tr>
+        <td><img src="github-catalog/banking/screenshot5.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot6.PNG" width="250" /></td>
+        <td><img src="github-catalog/banking/screenshot7.PNG" width="250" /></td>
+    </tr>
+    <tr>
+        <td colspan="3"><img src="github-catalog/banking/diagram.png" width="300" /></td>
+    </tr>
+   </table>
+</p>
+
+
 
