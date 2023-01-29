@@ -107,14 +107,14 @@
 
 <table border="0">
       <tr>
-        <td><img src="github-catalog/banking/home.PNG" width="160" /></td>
-        <td><img src="github-catalog/banking/screenshot1.PNG" width="160" /></td>
-        <td><img src="github-catalog/banking/screenshot2.PNG" width="160" /></td>
+        <td><img src="github-catalog/banking/home.PNG" width="200" /></td>
+        <td><img src="github-catalog/banking/screenshot1.PNG" width="200" /></td>
+        <td><img src="github-catalog/banking/screenshot2.PNG" width="200" /></td>
     </tr>
     <tr>
-        <td><img src="github-catalog/banking/screenshot3.PNG" width="160" /></td>
-        <td><img src="github-catalog/banking/screenshot4.PNG" width="160" /></td>
-        <td><img src="github-catalog/banking/screenshot5.PNG" width="160" /></td>
+        <td><img src="github-catalog/banking/screenshot3.PNG" width="200" /></td>
+        <td><img src="github-catalog/banking/screenshot4.PNG" width="200" /></td>
+        <td><img src="github-catalog/banking/screenshot5.PNG" width="200" /></td>
     </tr>
    </table>
 </p>
