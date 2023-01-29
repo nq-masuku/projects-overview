@@ -5,7 +5,7 @@
 </p>
 
 <hr/>
-<h2>Resume Builder Application - My CV</h2>
+<h2>Resume Builder Application - My CV <a href="url">(project link)</a></h2>
 <p align="center">
 <table border="0">
     <tr>
@@ -23,11 +23,11 @@
 
 <table border="0">
       <tr>
-        <td><img src="screenshots/Screenshot_1.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_2.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_3.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_4.png" width="160" /></td>
-        <td><img src="screenshots/Screenshot_5.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_1.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_2.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_3.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_4.png" width="160" /></td>
+        <td><img src="github-catalog/cv/Screenshot_5.png" width="160" /></td>
     </tr>
     <tr>
         <td><img src="screenshots/Screenshot_6.png" width="160" /></td>
