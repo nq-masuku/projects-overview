@@ -117,7 +117,10 @@
         <td><img src="github-catalog/banking/screenshot5.PNG" width="200" /></td>
     </tr>
     <tr>
-        <td colspan="3"><img src="github-catalog/banking/screenshot5.PNG" width="200" /></td>
+        <td colspan="3"><br>Architecture diagram</td>
+    </tr>
+    <tr>
+        <td colspan="3"><img src="github-catalog/banking/Architecture.png" width="500" /></td>
     </tr>
    </table>
 </p>
