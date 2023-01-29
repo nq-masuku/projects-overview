@@ -120,7 +120,7 @@
         <td colspan="3"><br>Architecture diagram</td>
     </tr>
     <tr>
-        <td colspan="3"><img src="github-catalog/banking/Architecture.png" width="800" /></td>
+        <td colspan="3"><img src="github-catalog/banking/Architecture.png" width="350" /></td>
     </tr>
    </table>
 </p>
