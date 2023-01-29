@@ -107,7 +107,7 @@
 
 <table border="0">
       <tr>
-        <td><img src="github-catalog/banking/home.png" width="160" /></td>
+        <td><img src="github-catalog/banking/home.PNG" width="160" /></td>
         <td><img src="github-catalog/banking/screenshot1.png" width="160" /></td>
         <td><img src="github-catalog/banking/screenshot2.png" width="160" /></td>
     </tr>
