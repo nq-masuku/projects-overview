@@ -116,6 +116,16 @@
         <td><img src="github-catalog/banking/screenshot4.PNG" width="200" /></td>
         <td><img src="github-catalog/banking/screenshot5.PNG" width="200" /></td>
     </tr>
+       <tr>
+        <span>
+        Architecture diagram
+        </span>
+    </tr>
+    <tr>
+        <span>
+        <td><img src="github-catalog/banking/screenshot5.PNG" width="200" /></td>
+        </span>
+    </tr>
    </table>
 </p>
 
