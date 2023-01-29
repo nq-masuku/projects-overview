@@ -85,6 +85,10 @@
         <td><img src="github-catalog/quiz/Screenshot_19.png" width="160" /></td>
         <td><img src="github-catalog/quiz/Screenshot_20.png" width="160" /></td>
     </tr>
+        <tr>
+        <td><img src="github-catalog/quiz/Screenshot_21.png" width="160" /></td>
+        <td><img src="github-catalog/quiz/Screenshot_22.png" width="160" /></td>
+    </tr>
    </table>
 </p>
 
