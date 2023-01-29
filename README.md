@@ -93,7 +93,12 @@
 </p>
 
 <br>
-<br>
+<p align="center">
+    <img src="javaswing.jpg" width="150" />
+    <h2 align="center">GUI applications - Java swing</h2>
+    
+</p>
+
 <hr/>
 <h2>Banking application - <a href="https://github.com/nq-masuku/banking-application">Project Link</a></h2>
 <p align="center">
@@ -148,7 +153,7 @@
         <td><img src="github-catalog/library/screenshot5.PNG" width="250" /></td>
         <td><img src="github-catalog/library/screenshot6.PNG" width="250" /></td>
         <td><img src="github-catalog/library/screenshot7.PNG" width="250" /></td>
-        <td><img src="github-catalog/library/screenshot8.PNG" width="250" /></td>
+        <td></td>
     </tr>
     <tr>
         <td colspan="3"><img src="github-catalog/library/diagram.png" width="300" /></td>
