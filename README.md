@@ -93,6 +93,7 @@
 </p>
 
 <br>
+<br>
 <p align="center">
     <img src="javaswing.jpg" width="150" />
     <h2 align="center">GUI applications - Java swing</h2>
@@ -137,7 +138,7 @@
 <table border="0">
     <tr>
         <span>
-        A Library application used by librarians and administrators for book management and checkout
+        A Library application used by librarians and administrators for book management and book checkout
         </span>
     </tr>
 </table>
