@@ -10,7 +10,7 @@
 <table border="0">
     <tr>
         <span>
-        Explanation
+        In this project I share my profile/resume through an android app.
         </span>
     </tr>
 </table>
@@ -51,7 +51,7 @@
 <table border="0">
     <tr>
         <span>
-        Explanation
+        A Quiz Android Application simulating some of the advance features of Android Development.
         </span>
     </tr>
 </table>
@@ -105,7 +105,7 @@
 <table border="0">
     <tr>
         <span>
-        Explanation
+        Application of software design patterns through a banking system with simple use cases:create personal/company account,deposit/withdraw money,and apply certain interest to all accounts.
         </span>
     </tr>
 </table>
@@ -137,7 +137,7 @@
 <table border="0">
     <tr>
         <span>
-        Explanation
+        A Library application used by librarians and administrators for book management and checkout
         </span>
     </tr>
 </table>
