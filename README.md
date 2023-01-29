@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="android_logo.png" width="150" />
+    <img src="github-catalog/android_logo.png" width="150" />
     <h2 align="center">Android development - Kotlin</h2>
     
 </p>
@@ -95,7 +95,7 @@
 <br>
 <br>
 <p align="center">
-    <img src="javaswing.jpg" width="150" />
+    <img src="github-catalog/javaswing.jpg" width="150" />
     <h2 align="center">GUI applications - Java swing</h2>
     
 </p>
