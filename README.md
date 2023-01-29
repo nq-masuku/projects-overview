@@ -5,7 +5,7 @@
 </p>
 
 <hr/>
-<h2>Resume Builder Application - My CV <a href="url">(project link)</a></h2>
+<h2>Resume Builder Application - My CV (<a href="https://github.com/nq-masuku/CVBuilderApplication">Project Link</a>)</h2>
 <p align="center">
 <table border="0">
     <tr>
